@@ -1,0 +1,14 @@
+D:\Practice\StringProgram\bin\Debug\netcoreapp3.1\StringProgram.exe
+D:\Practice\StringProgram\bin\Debug\netcoreapp3.1\StringProgram.deps.json
+D:\Practice\StringProgram\bin\Debug\netcoreapp3.1\StringProgram.runtimeconfig.json
+D:\Practice\StringProgram\bin\Debug\netcoreapp3.1\StringProgram.runtimeconfig.dev.json
+D:\Practice\StringProgram\bin\Debug\netcoreapp3.1\StringProgram.dll
+D:\Practice\StringProgram\bin\Debug\netcoreapp3.1\StringProgram.pdb
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.csproj.AssemblyReference.cache
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.AssemblyInfoInputs.cache
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.AssemblyInfo.cs
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.csproj.CoreCompileInputs.cache
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.dll
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.pdb
+D:\Practice\StringProgram\obj\Debug\netcoreapp3.1\StringProgram.genruntimeconfig.cache

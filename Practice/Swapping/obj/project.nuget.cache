@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/l2cyDRxVxtumKm+KyNZvplM/CGbVhmRtilJR1T2ybAuLP5djukjTH0NrW/iu1js6IoqsWb3EbmCs/IuLB5dg==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\Swapping\\Swapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/uZieq028VtRkuRbStpAUi/gF+zZV0KkbZBTZZC6k9rbqmWrxRBCL9zn7W/80xaxU/YtFsetubyRzaMZtOKxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\PowerOfN\\PowerOfN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

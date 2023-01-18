@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgrHfk4k6hyIriyobBo7JfPc+6pt2rnG4PKlXi5mflFHHPGrh4hwFtjOztjTLNRWICxcxPUQrbSmYxEkds+IwQ==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\PerfectNumber\\PerfectNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

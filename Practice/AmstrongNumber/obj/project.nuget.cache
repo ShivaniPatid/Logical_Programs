@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aRrtXKCU+bC7FpuzSCWR7T1mCmrXTqNumwaanTmHhDcWbhFL+kdnljMDyPjOAiypY+8uRT8hGFzuAQPjNNYew==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\AmstrongNumber\\AmstrongNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

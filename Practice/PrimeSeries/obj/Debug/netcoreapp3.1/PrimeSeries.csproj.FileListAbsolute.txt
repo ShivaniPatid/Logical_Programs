@@ -1,0 +1,14 @@
+D:\Practice\PrimeSeries\bin\Debug\netcoreapp3.1\PrimeSeries.exe
+D:\Practice\PrimeSeries\bin\Debug\netcoreapp3.1\PrimeSeries.deps.json
+D:\Practice\PrimeSeries\bin\Debug\netcoreapp3.1\PrimeSeries.runtimeconfig.json
+D:\Practice\PrimeSeries\bin\Debug\netcoreapp3.1\PrimeSeries.runtimeconfig.dev.json
+D:\Practice\PrimeSeries\bin\Debug\netcoreapp3.1\PrimeSeries.dll
+D:\Practice\PrimeSeries\bin\Debug\netcoreapp3.1\PrimeSeries.pdb
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.csproj.AssemblyReference.cache
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.AssemblyInfoInputs.cache
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.AssemblyInfo.cs
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.csproj.CoreCompileInputs.cache
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.dll
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.pdb
+D:\Practice\PrimeSeries\obj\Debug\netcoreapp3.1\PrimeSeries.genruntimeconfig.cache

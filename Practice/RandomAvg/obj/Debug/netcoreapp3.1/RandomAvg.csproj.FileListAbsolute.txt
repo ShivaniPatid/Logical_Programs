@@ -1,0 +1,14 @@
+D:\Practice\RandomAvg\bin\Debug\netcoreapp3.1\RandomAvg.exe
+D:\Practice\RandomAvg\bin\Debug\netcoreapp3.1\RandomAvg.deps.json
+D:\Practice\RandomAvg\bin\Debug\netcoreapp3.1\RandomAvg.runtimeconfig.json
+D:\Practice\RandomAvg\bin\Debug\netcoreapp3.1\RandomAvg.runtimeconfig.dev.json
+D:\Practice\RandomAvg\bin\Debug\netcoreapp3.1\RandomAvg.dll
+D:\Practice\RandomAvg\bin\Debug\netcoreapp3.1\RandomAvg.pdb
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.csproj.AssemblyReference.cache
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.AssemblyInfoInputs.cache
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.AssemblyInfo.cs
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.csproj.CoreCompileInputs.cache
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.dll
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.pdb
+D:\Practice\RandomAvg\obj\Debug\netcoreapp3.1\RandomAvg.genruntimeconfig.cache

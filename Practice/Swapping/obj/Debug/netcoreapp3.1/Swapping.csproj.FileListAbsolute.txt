@@ -1,0 +1,14 @@
+D:\Practice\Swapping\bin\Debug\netcoreapp3.1\Swapping.exe
+D:\Practice\Swapping\bin\Debug\netcoreapp3.1\Swapping.deps.json
+D:\Practice\Swapping\bin\Debug\netcoreapp3.1\Swapping.runtimeconfig.json
+D:\Practice\Swapping\bin\Debug\netcoreapp3.1\Swapping.runtimeconfig.dev.json
+D:\Practice\Swapping\bin\Debug\netcoreapp3.1\Swapping.dll
+D:\Practice\Swapping\bin\Debug\netcoreapp3.1\Swapping.pdb
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.csproj.AssemblyReference.cache
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.AssemblyInfoInputs.cache
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.AssemblyInfo.cs
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.csproj.CoreCompileInputs.cache
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.dll
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.pdb
+D:\Practice\Swapping\obj\Debug\netcoreapp3.1\Swapping.genruntimeconfig.cache

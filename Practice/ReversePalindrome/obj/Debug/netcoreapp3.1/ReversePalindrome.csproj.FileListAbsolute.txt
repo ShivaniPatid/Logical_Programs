@@ -1,0 +1,14 @@
+D:\Practice\ReversePalindrome\bin\Debug\netcoreapp3.1\ReversePalindrome.exe
+D:\Practice\ReversePalindrome\bin\Debug\netcoreapp3.1\ReversePalindrome.deps.json
+D:\Practice\ReversePalindrome\bin\Debug\netcoreapp3.1\ReversePalindrome.runtimeconfig.json
+D:\Practice\ReversePalindrome\bin\Debug\netcoreapp3.1\ReversePalindrome.runtimeconfig.dev.json
+D:\Practice\ReversePalindrome\bin\Debug\netcoreapp3.1\ReversePalindrome.dll
+D:\Practice\ReversePalindrome\bin\Debug\netcoreapp3.1\ReversePalindrome.pdb
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.csproj.AssemblyReference.cache
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.AssemblyInfoInputs.cache
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.AssemblyInfo.cs
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.csproj.CoreCompileInputs.cache
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.dll
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.pdb
+D:\Practice\ReversePalindrome\obj\Debug\netcoreapp3.1\ReversePalindrome.genruntimeconfig.cache

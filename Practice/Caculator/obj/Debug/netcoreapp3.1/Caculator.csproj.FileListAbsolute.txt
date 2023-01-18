@@ -1,0 +1,14 @@
+D:\Practice\Caculator\bin\Debug\netcoreapp3.1\Caculator.exe
+D:\Practice\Caculator\bin\Debug\netcoreapp3.1\Caculator.deps.json
+D:\Practice\Caculator\bin\Debug\netcoreapp3.1\Caculator.runtimeconfig.json
+D:\Practice\Caculator\bin\Debug\netcoreapp3.1\Caculator.runtimeconfig.dev.json
+D:\Practice\Caculator\bin\Debug\netcoreapp3.1\Caculator.dll
+D:\Practice\Caculator\bin\Debug\netcoreapp3.1\Caculator.pdb
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.csproj.AssemblyReference.cache
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.AssemblyInfoInputs.cache
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.AssemblyInfo.cs
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.csproj.CoreCompileInputs.cache
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.dll
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.pdb
+D:\Practice\Caculator\obj\Debug\netcoreapp3.1\Caculator.genruntimeconfig.cache

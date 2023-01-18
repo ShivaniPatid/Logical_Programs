@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iamtNfr7bzRAiE5HuLuog0I3mTRQkJGJJIoCmDhIDqTxWmyeyi739THRE+BIe4pnjzH6SitesUNUrrtOjD5lLA==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\HarmonicNumber\\HarmonicNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

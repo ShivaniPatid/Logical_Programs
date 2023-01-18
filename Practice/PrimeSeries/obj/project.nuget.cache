@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlW1oqAyRU6ZSeMHMVuawg+TOWTri2w2no25Cje/VlhEWo37pkmfzVtE+IFIOFYB9FGT6LVIrorNMf7fizXAtw==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\PrimeSeries\\PrimeSeries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

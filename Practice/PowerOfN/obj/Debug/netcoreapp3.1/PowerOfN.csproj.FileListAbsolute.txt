@@ -1,0 +1,14 @@
+D:\Practice\PowerOfN\bin\Debug\netcoreapp3.1\PowerOfN.exe
+D:\Practice\PowerOfN\bin\Debug\netcoreapp3.1\PowerOfN.deps.json
+D:\Practice\PowerOfN\bin\Debug\netcoreapp3.1\PowerOfN.runtimeconfig.json
+D:\Practice\PowerOfN\bin\Debug\netcoreapp3.1\PowerOfN.runtimeconfig.dev.json
+D:\Practice\PowerOfN\bin\Debug\netcoreapp3.1\PowerOfN.dll
+D:\Practice\PowerOfN\bin\Debug\netcoreapp3.1\PowerOfN.pdb
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.csproj.AssemblyReference.cache
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.AssemblyInfoInputs.cache
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.AssemblyInfo.cs
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.csproj.CoreCompileInputs.cache
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.dll
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.pdb
+D:\Practice\PowerOfN\obj\Debug\netcoreapp3.1\PowerOfN.genruntimeconfig.cache

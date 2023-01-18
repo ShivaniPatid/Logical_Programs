@@ -1,0 +1,14 @@
+D:\Practice\AmstrongNumber\bin\Debug\netcoreapp3.1\AmstrongNumber.exe
+D:\Practice\AmstrongNumber\bin\Debug\netcoreapp3.1\AmstrongNumber.deps.json
+D:\Practice\AmstrongNumber\bin\Debug\netcoreapp3.1\AmstrongNumber.runtimeconfig.json
+D:\Practice\AmstrongNumber\bin\Debug\netcoreapp3.1\AmstrongNumber.runtimeconfig.dev.json
+D:\Practice\AmstrongNumber\bin\Debug\netcoreapp3.1\AmstrongNumber.dll
+D:\Practice\AmstrongNumber\bin\Debug\netcoreapp3.1\AmstrongNumber.pdb
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.csproj.AssemblyReference.cache
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.AssemblyInfoInputs.cache
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.AssemblyInfo.cs
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.csproj.CoreCompileInputs.cache
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.dll
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.pdb
+D:\Practice\AmstrongNumber\obj\Debug\netcoreapp3.1\AmstrongNumber.genruntimeconfig.cache

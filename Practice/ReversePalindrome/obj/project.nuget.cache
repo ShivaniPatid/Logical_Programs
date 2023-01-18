@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZY4Oz3yEkdZmrz3tPWYo/ZJQCIoZwmjHVSFZgCvHtf3C431WUMC8z5MWR1jpGizKZhjvTkU9OMfhPi2z8C01g==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\ReversePalindrome\\ReversePalindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

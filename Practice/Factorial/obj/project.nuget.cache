@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5If40kT7+ft0UA9PiW/XN/V5maxs5XuZm04s7bZExMTFGPZyxJPAGdY1a6ThtLisv9sMZuVesITsVaHDLDpNQ==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\Factorial\\Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

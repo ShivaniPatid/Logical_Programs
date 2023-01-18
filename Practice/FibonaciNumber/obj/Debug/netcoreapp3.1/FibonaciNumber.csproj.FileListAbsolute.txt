@@ -1,0 +1,14 @@
+D:\Practice\FibonaciNumber\bin\Debug\netcoreapp3.1\FibonaciNumber.exe
+D:\Practice\FibonaciNumber\bin\Debug\netcoreapp3.1\FibonaciNumber.deps.json
+D:\Practice\FibonaciNumber\bin\Debug\netcoreapp3.1\FibonaciNumber.runtimeconfig.json
+D:\Practice\FibonaciNumber\bin\Debug\netcoreapp3.1\FibonaciNumber.runtimeconfig.dev.json
+D:\Practice\FibonaciNumber\bin\Debug\netcoreapp3.1\FibonaciNumber.dll
+D:\Practice\FibonaciNumber\bin\Debug\netcoreapp3.1\FibonaciNumber.pdb
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.csproj.AssemblyReference.cache
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.AssemblyInfoInputs.cache
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.AssemblyInfo.cs
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.csproj.CoreCompileInputs.cache
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.dll
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.pdb
+D:\Practice\FibonaciNumber\obj\Debug\netcoreapp3.1\FibonaciNumber.genruntimeconfig.cache

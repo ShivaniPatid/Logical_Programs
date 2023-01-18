@@ -1,0 +1,14 @@
+D:\Practice\PercentageHeadsTails\bin\Debug\netcoreapp3.1\PercentageHeadsTails.exe
+D:\Practice\PercentageHeadsTails\bin\Debug\netcoreapp3.1\PercentageHeadsTails.deps.json
+D:\Practice\PercentageHeadsTails\bin\Debug\netcoreapp3.1\PercentageHeadsTails.runtimeconfig.json
+D:\Practice\PercentageHeadsTails\bin\Debug\netcoreapp3.1\PercentageHeadsTails.runtimeconfig.dev.json
+D:\Practice\PercentageHeadsTails\bin\Debug\netcoreapp3.1\PercentageHeadsTails.dll
+D:\Practice\PercentageHeadsTails\bin\Debug\netcoreapp3.1\PercentageHeadsTails.pdb
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.csproj.AssemblyReference.cache
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.AssemblyInfoInputs.cache
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.AssemblyInfo.cs
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.csproj.CoreCompileInputs.cache
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.dll
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.pdb
+D:\Practice\PercentageHeadsTails\obj\Debug\netcoreapp3.1\PercentageHeadsTails.genruntimeconfig.cache

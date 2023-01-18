@@ -1,0 +1,14 @@
+D:\Practice\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.exe
+D:\Practice\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.deps.json
+D:\Practice\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.runtimeconfig.json
+D:\Practice\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.runtimeconfig.dev.json
+D:\Practice\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.dll
+D:\Practice\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.pdb
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.csproj.AssemblyReference.cache
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.AssemblyInfoInputs.cache
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.AssemblyInfo.cs
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.csproj.CoreCompileInputs.cache
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.dll
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.pdb
+D:\Practice\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.genruntimeconfig.cache
